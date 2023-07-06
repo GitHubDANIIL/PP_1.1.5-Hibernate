@@ -5,7 +5,6 @@
       <configuration>
         <datasource-map />
         <naming-strategy-map />
-        <deploymentDescriptor name="hibernate.properties" url="file://$MODULE_DIR$/src/main/resources/hibernate.properties" />
       </configuration>
     </facet>
     <facet type="jpa" name="JPA">
